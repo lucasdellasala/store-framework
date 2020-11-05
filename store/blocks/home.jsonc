@@ -4,6 +4,7 @@
       "rich-text"
     ]
   },
+  
   "rick-text" : {
     "props":{
       "text": "**Hello, World!**",
