@@ -5,6 +5,7 @@
       "info-card#button-left"
     ]
   },
+  
   "info-card#button-right": {
     "props": {
       "isFullModeStyle": false,
@@ -19,6 +20,7 @@
       "blockClass": "vintage"
     }
   },
+
   "info-card#button-left": {
     "props": {
       "isFullModeStyle": false,
