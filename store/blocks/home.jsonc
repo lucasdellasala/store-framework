@@ -1,7 +1,13 @@
 {
   "store.home": { 
     "blocks": [
-      
+      "rich-text"
     ]
+  },
+  "rick-text" : {
+    "props":{
+      "text": "**Hello, World!**",
+      "textAlignment": "RIGHT"
+    }
   }
 }
