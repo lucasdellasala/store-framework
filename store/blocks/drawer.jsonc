@@ -4,7 +4,6 @@
       "vtex.menu@2.x:menu#drawer"
       ]
     },
-
   "vtex.menu@2.x:menu#drawer": {
       "children": [
         "menu-item#major-appliances-acc",
