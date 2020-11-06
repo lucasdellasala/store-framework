@@ -9,7 +9,6 @@
       "responsive-layout.mobile#mobile"
     ]
   },
-
   "info-card#button-right": {
     "props": {
       "isFullModeStyle": false,
@@ -24,7 +23,6 @@
       "blockClass": "vintage"
     }
   },
-
   "info-card#button-left": {
     "props": {
       "isFullModeStyle": false,
@@ -39,21 +37,18 @@
       "blockClass": "metal"
     }
   },
-
   "flex-layout.row":{
     "children": [
       "info-card#rethink",
       "flex-layout.col"
     ]
   },
-
   "flex-layout.col":{
     "children": [
       "image#electronics",
       "image#major-appliance"
     ]  
   },
-  
  "info-card#rethink": {
     "props": {
       "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/utensilios-cozinha-min.png",
@@ -63,27 +58,23 @@
       "textPosition": "center"
     }
   },
-  
   "rich-text#deletar": {
     "props": {
       "text": "I'll be deleted soon"
     }
   },
-
   "image#electronics": {
     "props": {
       "src": "https://appliancetheme.vteximg.com.br/assets/vtex.file-manager-graphql/images/electronics_banner___25d69b49f8224b369375e68513b4d593.png",
       "maxWidth": "100%"
     }
   },
-
   "image#major-appliance": {
     "props": {
       "src": "https://appliancetheme.vteximg.com.br/assets/vtex.file-manager-graphql/images/major_appliance_banner___bb10093866a127345ddfbcca3efa5022.png",
       "maxWidth": "100%"
     }
   },
-
   "rich-text": {
     "props": {
       "text": "# Your Coffee, Your Way \n ### New Coffee Makers Collection",
@@ -91,29 +82,25 @@
       "textAlignment": "CENTER"
     }
   },
-
   "responsive-layout.desktop#desktop": {
     "children": [
       "rich-text#desktop",
       "image#desktop"
     ]
-  },
-  
+  },  
   "responsive-layout.mobile#mobile": {
     "children": [
       "rich-text#mobile",
       "image#mobile"
     ]
-  },
-  
+  },  
   "rich-text#desktop": {
     "props": {
       "text": "# Your Coffee, Your Way \n ### New Coffee Makers Collection",
       "textPosition": "CENTER",
       "textAlignment": "CENTER"
     }
-  },
-  
+  },  
   "rich-text#mobile": {
     "props": {
       "text": "### Your Coffee, Your Way \n #### New Coffee Makers Collection",
@@ -121,7 +108,6 @@
       "textAlignment": "CENTER"
     }
   },
-
   "image#desktop": {
     "props": {
       "src": "https://appliancetheme.vteximg.com.br/arquivos/Responsive-Image-Desktop.jpg?q=1",
@@ -131,8 +117,7 @@
       "alt": "Coffee Makers Collection",
       "maxWidth": "100%"
     }
-  },
-  
+  },  
   "image#mobile": {
     "props": {
       "src": "https://appliancetheme.vteximg.com.br/arquivos/Responsive-Image-Mobile.jpg?q=1",
